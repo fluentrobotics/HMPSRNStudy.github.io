@@ -4,7 +4,7 @@ This is the repository that contains source code for the [Bi3 dataset website](h
 
 If you find the $\text{Bi}^3$ dataset useful for your work please cite:
 ```
-@article{stratton2026bi3data,
+@article{stratton2026bi3dataset,
   author    = {Stratton, Andrew and Singamaneni, Phani Teja and Goyal, Pranav and Alami, Rachid and Mavrogiannis, Christoforos},
   title     = {Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation},
   journal   = {Proceedings of the 2026 International Conference on Robotics and Automation},
