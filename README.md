@@ -1,6 +1,6 @@
 # $\text{Bi}^3$: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation 
 
-This is the repository that contains source code for the [Bi3 dataset website](https://fluentrobotics.com/pred2nav/).
+This is the repository that contains source code for the [Bi3 dataset website](https://fluentrobotics.com/bi3dataset/).
 
 If you find the $\text{Bi}^3$ dataset useful for your work please cite:
 ```
